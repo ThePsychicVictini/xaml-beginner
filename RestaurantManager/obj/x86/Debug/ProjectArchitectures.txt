@@ -1,0 +1,1 @@
+C:\Users\Tfel\Documents\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows.csproj;x86
