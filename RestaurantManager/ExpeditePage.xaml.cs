@@ -26,5 +26,9 @@ namespace RestaurantManager
         {
             this.InitializeComponent();
         }
+        public void NavigateHome(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(MainPage));
+        }
     }
 }
